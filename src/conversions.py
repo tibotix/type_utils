@@ -1,7 +1,6 @@
 import base64
 import binascii
 import datetime
-import struct
 
 
 def b2s(b):
